@@ -58,9 +58,9 @@ Notepad++ on edelleen aktiivisesti ylläpidetty projekti GitHubissa. Päivityksi
 
 Notepad++ on edelleen aktiivisesti ylläpidetty projekti GitHubissa:
 
-- Sillä on yli **27 000 tähteä** (stars), mikä kertoo suuresta suosiosta ja aktiivisesta käyttäjä‑ ja kehittäjäyhteisöstä.
-- Repo on haarautunut (fork) yli **5 000 kertaa**, mikä osoittaa voimakasta kokeilua ja osallistumista. 
-- Ihan viime aikoina repossa on ollut satoja **avoimia issueja (yli 2 800)** ja useita kymmeniä **avoimia pull requestejä**, mikä kertoo, että yhteisö tekee aktiivisesti korjauksia, päivityksiä ja parannuksia.  
+- Sillä on yli 27 000 tähteä (stars), mikä kertoo suuresta suosiosta ja aktiivisesta käyttäjä‑ ja kehittäjäyhteisöstä.
+- Repo on haarautunut (fork) yli 5 000 kertaa, mikä osoittaa voimakasta kokeilua ja osallistumista. 
+- Ihan viime aikoina repossa on ollut satoja avoimia issueja (yli 2 800) ja useita kymmeniä avoimia pull requestejä, mikä kertoo, että yhteisö tekee aktiivisesti korjauksia, päivityksiä ja parannuksia.  
 - Projektin päähaaraan on kertynyt tuhansia commit‑muutoksia historian aikana (6 767 commitia 16.2.2026), ja viimeisin commit on tehty hyvin hiljattain.
 
 Ylläpidosta vastaa nykyisin laaja avoimen lähdekoodin yhteisö, jotka yhdessä vastaavat bugikorjauksista, uusista ominaisuuksista ja projektin kehityksestä.
